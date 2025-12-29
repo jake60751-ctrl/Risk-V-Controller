@@ -1,4 +1,5 @@
 {
-  "gpio2": 0,
-  "gpio4": 0
+  "title": "Status",
+  "message": "Hello from GitHub!",
+  "updated": "2025-12-15"
 }
